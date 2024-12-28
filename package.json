@@ -10,6 +10,6 @@
     "start": "concurrently \"cd server && yarn dev\" \"cd client && yarn dev\""
   },
   "dependencies": {
-    "concurrently": "^7.4.4"
+    "concurrently": "^9.1.1"
   }
 }
