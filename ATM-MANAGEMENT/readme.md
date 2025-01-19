@@ -110,9 +110,3 @@ Before running the application, make sure you have the following software instal
 5. Log out when you are finished using the system.
 
 
-
-## Contact
-
-If you have any questions or suggestions regarding this project, feel free to contact the author at [github.com/iamevs](https://github.com/iamevs).
-
-**Happy banking!**
