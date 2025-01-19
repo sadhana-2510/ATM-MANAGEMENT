@@ -34,7 +34,7 @@ Before running the application, make sure you have the following software instal
 1.  Clone the repository from GitHub:
 
     ```bash
-    git clone https://github.com/iamevs/atm-management.git
+    git clone https://github.com/sadhana-2510/ATM-MANAGEMENT
     ```
 
 2.  Navigate to the project directory:
@@ -109,21 +109,7 @@ Before running the application, make sure you have the following software instal
 4. Perform various operations like cash withdrawal, cash deposit, and fund transfers as needed.
 5. Log out when you are finished using the system.
 
-## Contributing
 
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make the necessary changes and commit your code.
-4. Push your changes to your forked repository.
-5. Submit a
-
-pull request describing your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
